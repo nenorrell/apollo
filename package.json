@@ -27,7 +27,7 @@
     "lodash": "^4.17.19",
     "mysql": "^2.18.1",
     "mysql-promise": "^5.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "on-finished": "^2.3.0",
     "pm2": "^4.4.0"
   },
